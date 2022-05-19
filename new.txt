@@ -1,2 +1,3 @@
 Ez az új txt, ami még csak lokálisan létezik
 Jim
+jam
